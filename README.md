@@ -19,6 +19,11 @@ Key Highlights:
 📱 Join Us Today: Embark on a journey of knowledge and discovery. Experience the power of words with Insight Blogs. Your ideas matter.
 
 👉 Explore Now - Insight Blogs, Where Knowledge Meets Expression! 🌟
+
+**Book Reference:** [Django 4 by Example](https://www.packtpub.com/product/django-4-by-example-fourth-edition/9781801813051)
+
+The book offers professionals level projects with detailed explanations, making it an invaluable resource for building robust Django applications.
+
 ## Admin Page
 ![Admin Page](blog/static/css/admin.png)
 - This image showcases the admin page for the Django website where administrative tasks can be managed.
